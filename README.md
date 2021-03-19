@@ -1,6 +1,6 @@
 <h2> Hi, I'm Landon Douangaphaivong! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginnering Student at Lambda School <a href="http://www.unb.br"></a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Software Enginnering Student at Lambda School <a href="http://www.unb.br"></a>
 </em></p>
 
 [![Linkedin: Landon D15](https://img.shields.io/badge/-landond15-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/landond15/)](https://www.linkedin.com/in/landond15/)
