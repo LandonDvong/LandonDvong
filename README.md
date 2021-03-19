@@ -1,5 +1,4 @@
 <h2> Hi, I'm Landon Douangaphaivong! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginnering Student at Lambda School <a href="http://www.unb.br"></a>
 </em></p>
 
@@ -11,9 +10,8 @@
 
 ```javascript
 const Landon = {
-  code: [Javascript, HTML, CSS/SCSS, Python, Node,  SQL/MySQL, PostGreSQL]
+  code: [Javascript, HTML, CSS/SCSS, Python, Node.js,  SQL/MySQL, PostGreSQL]
   tools: [React, Redux, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
 }
 ```
 
