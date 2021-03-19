@@ -3,11 +3,11 @@
 <p><em>Software Enginnering Student at Lambda School <a href="http://www.unb.br"></a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: Landon D15](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/landond15/)](https://www.linkedin.com/in/landond15/)
+[![Linkedin: Landon D15](https://img.shields.io/badge/-landond15-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/landond15/)](https://www.linkedin.com/in/landond15/)
 [![GitHub LandonDvong](https://img.shields.io/github/followers/LandonDvong?label=follow&style=social)](https://github.com/LandonDvong)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const Landon = {
