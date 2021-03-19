@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi, I'm Landon Douangaphaivong
 
-<!--
-**LandonDvong/LandonDvong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Enginnering Student at Lambda School
 
-Here are some ideas to get you started:
+Linkedin: /LandonDvong
+A little more about me...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const Landon = {
+  code: [Javascript, HTML, CSS/SCSS, Python, Node,  SQL/MySQL, PostGreSQL]
+  tools: [React, Redux, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+}
+
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+
+
